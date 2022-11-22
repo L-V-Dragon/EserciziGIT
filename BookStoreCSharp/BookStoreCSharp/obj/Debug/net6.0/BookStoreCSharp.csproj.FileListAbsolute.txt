@@ -1,0 +1,15 @@
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\bin\Debug\net6.0\BookStoreCSharp.exe
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\bin\Debug\net6.0\BookStoreCSharp.deps.json
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\bin\Debug\net6.0\BookStoreCSharp.runtimeconfig.json
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\bin\Debug\net6.0\BookStoreCSharp.dll
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\bin\Debug\net6.0\BookStoreCSharp.pdb
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.csproj.AssemblyReference.cache
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.AssemblyInfoInputs.cache
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.AssemblyInfo.cs
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.csproj.CoreCompileInputs.cache
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.dll
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\refint\BookStoreCSharp.dll
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.pdb
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\BookStoreCSharp.genruntimeconfig.cache
+D:\EserciziGIT\BookStoreCSharp\BookStoreCSharp\obj\Debug\net6.0\ref\BookStoreCSharp.dll

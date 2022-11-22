@@ -1,0 +1,25 @@
+﻿string titolo = "Lord of Chaos. La storia insanguinata del metal satanico";
+string autore = " Michael Moynihan, Didrik Soderlind";
+string isbn10 = "8896131154";
+string isbn13 = "978-8896131152";
+int nPagine = 384;
+float peso = 621;
+double larghezza = 15.9;
+double altezza = 2.2;
+double profondità = 23.1;
+double valMed = 4.7;
+int valMax = 5;
+float numRecensioni = 98;
+string kindle = "Il libro è presente su kindle";
+string copFlex = "Il libro è presente in copertina flessibile";
+
+Console.WriteLine("---------------IL LIBRO DI OGGI: " + titolo + " ----------------");
+Console.WriteLine("autore/i: " + autore );
+Console.WriteLine("ISBN-10: " + isbn10);
+Console.WriteLine("ISBN-13: " + isbn13);
+Console.WriteLine("Numero Pagine: " + nPagine);
+Console.WriteLine("Peso: " + peso);
+Console.WriteLine("Dimensioni" + larghezza + "x" + altezza + "x" + profondità);
+Console.WriteLine("Valutazione: " + valMed + "su" + valMax);
+Console.WriteLine("Recensito da: " + numRecensioni + "lettori");
+Console.WriteLine(kindle + "------" + copFlex);
