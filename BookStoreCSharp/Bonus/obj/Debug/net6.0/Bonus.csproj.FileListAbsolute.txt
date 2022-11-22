@@ -1,0 +1,15 @@
+D:\EserciziGIT\BookStoreCSharp\Bonus\bin\Debug\net6.0\Bonus.exe
+D:\EserciziGIT\BookStoreCSharp\Bonus\bin\Debug\net6.0\Bonus.deps.json
+D:\EserciziGIT\BookStoreCSharp\Bonus\bin\Debug\net6.0\Bonus.runtimeconfig.json
+D:\EserciziGIT\BookStoreCSharp\Bonus\bin\Debug\net6.0\Bonus.dll
+D:\EserciziGIT\BookStoreCSharp\Bonus\bin\Debug\net6.0\Bonus.pdb
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.dll
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\refint\Bonus.dll
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.pdb
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\Bonus.genruntimeconfig.cache
+D:\EserciziGIT\BookStoreCSharp\Bonus\obj\Debug\net6.0\ref\Bonus.dll
